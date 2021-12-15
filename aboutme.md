@@ -6,8 +6,8 @@ subtitle: 💜💜💜💜💜💜💜💜💜💜
 
 My name is Huang Xuling. 
 
-- :school:I'm currently studying in the Communication University of China.
-- :sparkler: I'm interested in Deep Learning and Computer Vision.
+- 🏫I'm currently studying in the Communication University of China.
+- 💖 I'm interested in Deep Learning and Computer Vision.
 
 ### Skill
 Here are some of my skills.
