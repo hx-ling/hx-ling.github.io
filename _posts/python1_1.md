@@ -1,0 +1,16 @@
+# 线上学习网站
+
+- 国外网站  
+[uva.onlinejudge.org](uva.onlinejudge.org)  
+[icpcarchive.ecs.baylor.edu](icpcarchive.ecs.baylor.edu)    
+[livearchive.onlinejudge.org](livearchive.onlinejudge.org)  
+
+- 国内高校网站  
+北京大学[poj.org](poj.org)  
+天津大学[acm.tju.edu.cn](acm.tju.edu.cn)  
+浙江大学[acm.zju.edu.cn](acm.zju.edu.cn)  
+
+- 使用网站  
+针对蓝桥杯比赛，使用蓝桥训练系统[http://lx.lanqiao.cn/](http://lx.lanqiao.cn/)   
+针对难度训练，使用vj系统[https://vjudge.net/](https://vjudge.net/)  
+高级训练codeforce[https://codeforces.com/](https://codeforces.com/)  
