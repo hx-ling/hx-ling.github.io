@@ -11,7 +11,7 @@ comments: true
 
 ## 1、前提知识
 1. [线上学习网站](https://hx-ling.github.io/_posts/python1_1/)
-2. 线上裁判的返回值
+2. [线上裁判的返回值](https://hx-ling.github.io/_posts/python1_2/)
 3. 输入输出及显示格式
 4. 复杂度
 5. 基本数据结构
