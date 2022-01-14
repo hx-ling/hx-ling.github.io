@@ -10,7 +10,7 @@ comments: true
 # python算法竞赛学习记录（总）
 
 ## 1、前提知识
-1. 线上学习网站
+1. [线上学习网站](https://hx-ling.github.io/python1_1/)
 2. 线上裁判的返回值
 3. 输入输出及显示格式
 4. 复杂度
