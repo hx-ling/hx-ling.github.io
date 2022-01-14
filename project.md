@@ -7,8 +7,8 @@ subtitle: 💜💜💜💜💜💜💜💜💜💜
 Here are some of my projects:
 
 - Web spider
-    1. Linken
-    2. nowcode
+    1. [Linken](https://github.com/hx-ling/webspider-Linkedin)
+    2. [nowcode](https://github.com/hx-ling/webspider-nowcoder)
     3. douban
 - Deep Learning
     1. CNN
