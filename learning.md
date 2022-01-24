@@ -18,3 +18,4 @@ Here are some of my learning record:
     5. [Problem Solving and Rule Induction:A Unified View](https://blog.csdn.net/m0_46979525/article/details/120621383?spm=1001.2014.3001.5502)
 - Python algorithm  
     1. [汇总](https://hx-ling.github.io/2022-01-14-python_algorithm/)
+    2. [数据分析](https://hx-ling.github.io/first_problem.html)
