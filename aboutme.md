@@ -6,7 +6,7 @@ subtitle: 💜💜💜💜💜💜💜💜💜💜
 
 My name is Huang Xuling. 
 
-- 🏫I'm currently studying in the Communication University of China.
+- 🏫I graduated from the Communication University of China.
 - 💖 I'm interested in Deep Learning and Computer Vision.
 
 ### Skill
