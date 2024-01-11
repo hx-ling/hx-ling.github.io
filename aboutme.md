@@ -9,6 +9,24 @@ My name is Huang Xuling.
 - 🏫I graduated from the Communication University of China.
 - 💖 I'm interested in Deep Learning and Computer Vision.
 
+黄栩灵
+
+- 🏫本人毕业于中国传媒大学-数据科学与智能媒体学院-数据科学与大数据技术专业
+- 💖研究方向：数据分析，计算机视觉，深度学习
+- 📖学术成果：
+  1. SCI一区论文一篇
+  2. 国家发明专利一份；  
+- 🎖️奖项荣誉：
+  1. 2021年全国大学生数学建模竞赛北京市二等奖
+  2. 2021年第十一届全国大学生正大杯市场调查大赛北京市三等奖（组长）
+  3. 2020年国家级大学生创新创业优秀项目（成员）
+  4. 2022年美国大学生数学建模竞赛S奖
+  5. 2021年中青校媒（北京新闻）三等奖（承办单位：中国青年报）
+  6. 2023年中国传媒大学优秀毕业生
+- 💻技能：C、C++，Python
+- 💽基本技能：熟练掌握word，ppt等常用工具，掌握Ps，LR，AI，Pr等图像视频软件操作
+- 💕爱好：摄影，骑行，羽毛球
+
 ### Skill
 Here are some of my skills.
 <!-- ![avatar]("https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg")
