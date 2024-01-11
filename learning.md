@@ -6,10 +6,9 @@ subtitle: 💜💜💜💜💜💜💜💜💜💜
 
 Here are some of my learning record:
 
-- Deep Learning
-    1. none
-- Computer Vision
-    1. none
+- C++ alogrithm
+    1.PAT甲级练习题（注意点汇总）
+    2.Dijsktra算法 
 - Paper Reading
     1. [Multimodal End-to-End Sparse Model for Emotion Recognition](https://blog.csdn.net/m0_46979525/article/details/121129722?spm=1001.2014.3001.5502)
     2. [IEMOCAP: Interactive emotional dyadic motion capture database](https://blog.csdn.net/m0_46979525/article/details/121071328)
