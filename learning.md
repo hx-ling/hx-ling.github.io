@@ -8,7 +8,7 @@ Here are some of my learning record:
 
 - C++ alogrithm
     1. PAT甲级练习题（注意点汇总）
-    2. [晴问算法题库解题记录]()
+    2. [晴问算法题库解题记录](https://hx-ling.github.io/2024-01-11-%E6%99%B4%E9%97%AE%E7%AE%97%E6%B3%95%E9%A2%98%E5%BA%93%E8%A7%A3%E9%A2%98%E8%AE%B0%E5%BD%95/)
     3. [Dijsktra算法](https://hx-ling.github.io/2024-01-11-Dijsktra%E7%AE%97%E6%B3%95%E7%90%86%E8%A7%A3%E7%AC%94%E8%AE%B0/) 
 - Paper Reading
     1. [Multimodal End-to-End Sparse Model for Emotion Recognition](https://blog.csdn.net/m0_46979525/article/details/121129722?spm=1001.2014.3001.5502)
