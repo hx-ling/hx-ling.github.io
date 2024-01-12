@@ -7,7 +7,7 @@ subtitle: 💜💜💜💜💜💜💜💜💜💜
 Here are some of my learning record:
 
 - C++ alogrithm
-    1. PAT甲级练习题（注意点汇总）
+    1. [PAT甲级练习题（注意点汇总）](https://hx-ling.github.io/2024-01-11-PAT%E7%94%B2%E7%BA%A7%E7%BB%83%E4%B9%A0%E9%A2%98-%E6%B3%A8%E6%84%8F%E7%82%B9/)
     2. [晴问算法题库解题记录](https://hx-ling.github.io/2024-01-11-%E6%99%B4%E9%97%AE%E7%AE%97%E6%B3%95%E9%A2%98%E5%BA%93%E8%A7%A3%E9%A2%98%E8%AE%B0%E5%BD%95/)
     3. [Dijsktra算法](https://hx-ling.github.io/2024-01-11-Dijsktra%E7%AE%97%E6%B3%95%E7%90%86%E8%A7%A3%E7%AC%94%E8%AE%B0/) 
 - Paper Reading
