@@ -1,3 +1,12 @@
+---
+layout: post
+title: Dijsktra算法理解笔记
+subtitle: learning
+gh-repo: daattali/beautiful-jekyll
+tags: [learning,algorithm]
+comments: true
+---
+
 ## Dijsktra算法理解笔记
 
 > 学习了柳神的笔记 [感谢柳神](https://www.liuchuo.net/archives/2357)
